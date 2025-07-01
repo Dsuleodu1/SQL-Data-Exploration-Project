@@ -9,7 +9,7 @@ Importing Covid-19 Vaccinations and Deaths Excel dataset into SQL Server to then
 ## Features
 
 - Created with Microsoft Excel and SQL Server.
-- Provides Knowledge of data exploration methods, identifying patterns and common SQL quering methods on how to filter out larger datasets.
+- Provides Knowledge of data exploration methods, identifying patterns and common SQL quering statements on how to filter out larger datasets.
 - Can download kaggle MS Excel file and dowload SQL Server to preform project. ![]().
 - Gives you hands on experinece working with large datasets, understanding which SQL statements are required to understand and organize data before visualization.
 - Allows you to learn key insights of a large dataset with precise prarameters and choose apporiate analysis techniques to prepare data to be visualized.
